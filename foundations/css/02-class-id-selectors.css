@@ -1,0 +1,18 @@
+.imOddAndPink{
+    background-color: rgb(233, 160, 160);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#imSecond{
+    color: blue;
+    font-size: 36px;
+}
+
+.font-size-24{
+    font-size: 24px;
+}
+
+#imFourth{
+    background-color: rgb(103, 163, 103);
+    font-weight: bold;
+}
